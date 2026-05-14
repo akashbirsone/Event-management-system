@@ -1,0 +1,102 @@
+[
+  {
+    "id": "evt-1759814650147",
+    "name": "Jk",
+    "description": "Jk",
+    "secretKey": "secret-5z6mtgdy",
+    "adminId": "1234567890",
+    "registrationStatus": "Open",
+    "contactInfo": "9876543210",
+    "startDate": "2025-10-07",
+    "endDate": "2025-10-07",
+    "venue": "Aur",
+    "address": "Aurangabad ",
+    "registrationStartDate": "",
+    "registrationEndDate": "",
+    "registrationStartTime": "07:00 AM",
+    "registrationEndTime": "12:10 PM",
+    "eventType": "Paid",
+    "eventFee": 100,
+    "upiId": "9561274934@ybl",
+    "payeeName": "Jay",
+    "departments": [
+      "It"
+    ]
+  },
+  {
+    "id": "evt-1759724377370",
+    "name": "Engegment ",
+    "description": "Jay and Rutuja s engegment ",
+    "secretKey": "secret-m7eryrfh",
+    "adminId": "jay@009",
+    "registrationStatus": "Open",
+    "contactInfo": "9876543210",
+    "startDate": "2025-10-10",
+    "endDate": "2025-10-10",
+    "venue": "Tulip hotel ",
+    "address": "Cidco waluj mahanagar 1 ",
+    "registrationStartDate": "2025-10-06",
+    "registrationEndDate": "2025-10-06",
+    "registrationStartTime": "08:01 AM",
+    "registrationEndTime": "12:59 AM",
+    "eventType": "Free",
+    "eventFee": 0,
+    "departments": [
+      "Male",
+      "Female"
+    ],
+    "startTime": "12:00 PM"
+  },
+  {
+    "id": "evt-1",
+    "name": "Freshers Party 2025",
+    "description": "The annual welcome party for new students of the CS & IT department.",
+    "secretKey": "supersecretkey123",
+    "registrationStatus": "Open",
+    "registrationStartDate": "2025-09-20",
+    "registrationEndDate": "2025-09-24",
+    "adminId": "Admin",
+    "departments": [
+      "Computer Science",
+      "IT"
+    ],
+    "startDate": "2025-09-24",
+    "venue": "Deogiri College",
+    "address": "CSM Nagar, Aurangabad, Maharashtra 431005",
+    "contactInfo": "9561274934",
+    "startTime": "10:00 AM",
+    "registrationStartTime": "12:00 AM",
+    "registrationEndTime": "11:59 PM",
+    "eventType": "Free",
+    "eventFee": 0
+  },
+  {
+    "id": "evt-2",
+    "name": "Tech Fest 2025",
+    "venue": "Main Auditorium",
+    "address": "CSM Nagar, Aurangabad, Maharashtra 431005",
+    "contactInfo": "9561274934",
+    "description": "A festival of technology and innovation.",
+    "secretKey": "techfestsecret456",
+    "registrationStatus": "Open",
+    "registrationStartDate": "2025-09-30",
+    "registrationEndDate": "2025-11-10",
+    "registrationStartTime": "10:00 AM",
+    "registrationEndTime": "06:00 PM",
+    "adminId": "EventsManager",
+    "departments": [
+      "Computer Science",
+      "IT",
+      "Electronics",
+      "Mechanical",
+      "Civil"
+    ],
+    "eventType": "Paid",
+    "eventFee": 5,
+    "upiId": "9561274934@ybl",
+    "startDate": "2025-11-28",
+    "endDate": "2025-11-29",
+    "startTime": "09:00 AM",
+    "payeeName": "JAY KAMBLE"
+  }
+]

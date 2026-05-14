@@ -1,0 +1,34 @@
+[
+  {
+    "id": "956127493495",
+    "name": "Main Admin",
+    "password": "Jay@009",
+    "role": "Admin",
+    "phoneNumber": "9876543210",
+    "hasCompletedSetup": false,
+    "securityPin": "",
+    "securityQuestion": "",
+    "securityAnswer": ""
+  },
+  {
+    "id": "EventsManager",
+    "name": "Default Manager",
+    "password": "EventsManager",
+    "role": "EventsManager",
+    "phoneNumber": "9561274934"
+  },
+  {
+    "id": "jay@009",
+    "name": "Jay Kamble ",
+    "password": "jay@009",
+    "role": "EventsManager",
+    "phoneNumber": "9595747467"
+  },
+  {
+    "id": "1234567890",
+    "name": "12345",
+    "password": "Jay@009",
+    "role": "EventsManager",
+    "phoneNumber": "93225395612"
+  }
+]
